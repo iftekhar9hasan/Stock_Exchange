@@ -1,4 +1,7 @@
-git add requirements.txt
-git commit -m "Add requirements file"
-git push
-
+Flask
+pandas
+numpy
+scikit-learn
+tensorflow
+yfinance
+requests
